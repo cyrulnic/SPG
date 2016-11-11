@@ -5,6 +5,6 @@ References:
 
 1) Tsyrulnikov M. and Gayfulin D. A Limited-Area Spatio-Temporal Stochastic Pattern Generator for ensemble prediction and ensemble data assimilation. Meteorol. Zeitschrift, 2016 (revised version under review). 
 
-2) Tsyrulnikov M. and Gayfulin D. A spatio-temporal stochastic pattern generator for simulation of uncertainties in geophysical ensemble prediction and ensemble data assimilation. ArXiv preprint, 2016, arxiv.org/abs/1605.02018.
+2) Tsyrulnikov M. and Gayfulin D. A spatio-temporal stochastic pattern generator for simulation of uncertainties in geophysical ensemble prediction and ensemble data assimilation. ArXiv preprint, 2016, https://arxiv.org/abs/1605.02018.
 
 3) Tsyrulnikov M. and Gayfulin D. A Stochastic Pattern Generator for ensemble applications. COSMO Technical Report N 29, (20 July) 2016, 51 pp, available at http://www.cosmo-model.org/content/model/documentation/techReports/docs/techReport29.pdf.
