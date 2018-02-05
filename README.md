@@ -2,7 +2,7 @@ The Stochastic Pattern (i.e. random field) Generator (SPG) produces spatio-tempo
 
 References:
 
-1) Tsyrulnikov M. and Gayfulin D. A Limited-Area Spatio-Temporal Stochastic Pattern Generator for ensemble prediction and ensemble data assimilation. Meteorol. Zeitschrift, 2016 (revised version under review).
+1) Tsyrulnikov M. and Gayfulin D. A limited-area spatio-temporal stochastic pattern generator for simulation of uncertainties in ensemble applications. – Meteorologische Zeitschrift, 2017, v. 26, N5, 549-566, doi: 10.1127/metz/2017/0815.
 
 2) Tsyrulnikov M. and Gayfulin D. A spatio-temporal stochastic pattern generator for simulation of uncertainties in geophysical ensemble prediction and ensemble data assimilation. ArXiv preprint, 2016, https://arxiv.org/abs/1605.02018.
 
